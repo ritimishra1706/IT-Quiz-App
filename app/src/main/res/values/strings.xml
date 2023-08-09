@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="_5">10</string>
+    <string name="total_set">Total set</string>
+    <string name="logo">logo</string>
+    <string name="set_1">SET-1</string>
+    <string name="q1">Given 0.006, 1.2, and 6/25, what is the fourth proportional?</string>
+</resources>
